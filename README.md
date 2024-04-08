@@ -12,8 +12,11 @@ Selenium, temel olarak şu üç ana bileşeni içerir:
 
 Selenium, web uygulamalarının farklı bileşenlerini (örneğin, butonlar, metin kutuları, linkler) tanıyabilir, bu bileşenler üzerinde etkileşimler yapabilir (tıklama, metin girişi, sayfa gezinme), form doldurabilir ve sayfa özelliklerini (örneğin, başlık, URL) kontrol edebilir. Bu özellikleri sayesinde Selenium, web uygulamalarının doğruluğunu, performansını ve kullanılabilirliğini test etmek için geniş bir kullanım alanına sahiptir.
 
+### Bu projede neler görüceksiniz?
 
-##### Kullanımın için zorunluluklar;
+Selenium da basit 17 adet küçük uygulama görüceksiniz. Bu uygulamaların amacı size selenium da önemli olan şeyleri nasıl yapıcağınızı göstermek amacıyla yazılmış örnekler görüceksiniz.
+
+### Kullanımın için zorunluluklar;
 - Python. (Selenium'u python ile kullanıldı.)
 - Selenium. (burada 4.19.0 kullanıldı.)
 - pip install selenium (Last kurar daha öncesinde https://www.selenium.dev/downloads/ sitesine gidip en son kararlı sürüm hangisi ise onu kurmanızı öneriyorum ben kendim kurduğum vakitte 4.19.0'dı. Eğer son sürüm kararlı değilse şu şekilde kurulum yapabilirsiniz. "pip install selenium==x.x.x)

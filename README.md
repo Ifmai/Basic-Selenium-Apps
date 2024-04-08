@@ -8,4 +8,5 @@ Kurmanız gerekenler
 - Web driver. (Selenium web driver kullandığından kaynaklı. Ben burada chrome driver kullandım çünkü artık bu bir klasik olmuş durumda. https://chromedriver.chromium.org/downloads buraya gidip kendi kullandığınız chrome versiyonuna göre indirime işlemini yapabilirsiniz. Chrome ayarlar->chrome hakkında kısmından hangi versiyonu kullandığınızıda kolayca öğrenebilirsiniz.)
 
 Yada benim projede kullandığım gibi otomatik kullanabilirsiniz (Kullanımını projede görebilirsiniz) :
-- pip install chromedriver-autoinstaller (sizin yerinize şuan sizde kurulu olan chrome sürümü ile uyumlu driver'ı kuracaktır. import ederek kullanıyoruz <3)
+- pip install webdriver-manager (sizin yerinize şuan sizde kurulu olan chrome sürümü ile uyumlu driver'ı kuracaktır. import ederek kullanıyoruz <3)
+https://pypi.org/project/webdriver-manager/

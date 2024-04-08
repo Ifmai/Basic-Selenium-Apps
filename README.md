@@ -1,3 +1,16 @@
+Selenium, web tabanlı uygulamaların otomatik test edilmesi için kullanılan bir araçtır. Genellikle web tarayıcıları üzerinde test senaryolarını otomatik olarak çalıştırmak için kullanılır. Selenium, web tarayıcıları ile etkileşim kurabilen bir test otomasyon aracıdır ve çeşitli programlama dilleriyle (Python, Java, C#, vb.) kullanılabilir.
+
+Selenium, temel olarak şu üç ana bileşeni içerir:
+
+1. Selenium WebDriver: Gerçek tarayıcıları kontrol ederek test senaryolarını çalıştırmak için kullanılan bir API'dir. Farklı tarayıcılar için farklı WebDriver'lar bulunur (ChromeDriver, GeckoDriver, EdgeDriver, vb.).
+
+2. Selenium IDE (Integrated Development Environment): Bu bir tarayıcı eklentisidir ve kullanıcıların test senaryolarını kaydetmelerine, düzenlemelerine ve oynamalarına olanak tanır. Selenium IDE, sık kullanılan web tarayıcılarında (örneğin, Chrome ve Firefox) kullanılabilir.
+
+3. Selenium Grid: Bu, test senaryolarının paralel olarak farklı tarayıcılarda veya farklı platformlarda (işletim sistemleri ve tarayıcılar) çalıştırılmasını sağlayan bir bileşendir. Bu, test sürelerini azaltmaya ve test kapsamını artırmaya yardımcı olur.
+
+Selenium, web uygulamalarının farklı bileşenlerini (örneğin, butonlar, metin kutuları, linkler) tanıyabilir, bu bileşenler üzerinde etkileşimler yapabilir (tıklama, metin girişi, sayfa gezinme), form doldurabilir ve sayfa özelliklerini (örneğin, başlık, URL) kontrol edebilir. Bu özellikleri sayesinde Selenium, web uygulamalarının doğruluğunu, performansını ve kullanılabilirliğini test etmek için geniş bir kullanım alanına sahiptir.
+
+
 Kurmanız gerekenler
 - Python. (Selenium'u python ile kullanıldı.)
 - Selenium. (burada 4.19.0 kullanıldı.)
